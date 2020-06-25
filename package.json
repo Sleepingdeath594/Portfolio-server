@@ -2,14 +2,14 @@
   "name": "portfolio-server",
   "version": "1.0.0",
   "description": "",
-  "main": "portfolio.js",
+  "main": "index.js",
   "dependencies": {
     "ejs": "^3.1.3",
     "express": "^4.17.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node portfolio.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
